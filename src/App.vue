@@ -1,6 +1,10 @@
 <template>
   <div>
-    <h1 class="text-4xl font-bold underline">Hello world!</h1>
+    <h1
+      class="bg-[url('./assets/images/bg.png')] bg-cover flex h-screen text-white p-5 "
+    >
+      Hello world!
+    </h1>
   </div>
 </template>
 
