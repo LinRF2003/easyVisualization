@@ -1,10 +1,8 @@
 <template>
   <div>
-    <h1
-      class="bg-[url('./assets/images/bg.png')] bg-cover flex h-screen text-white p-5 "
-    >
-      Hello world!
-    </h1>
+    <div>左</div>
+    <div>中</div>
+    <div>右</div>
   </div>
 </template>
 
